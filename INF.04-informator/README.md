@@ -33,6 +33,7 @@ Rysunek 2. Uruchomiono program, wprowadzono tekst do zaszyfrowania "To jest przy
 Rysunek 3. Uruchomiono program, wprowadzono tekst do zaszyfrowania "Oto przykład programu w C++20 używającego szyfru GADERYpoluki" i uzyskano szyfrogram "Ptp oyzriłge oypaygml w C++20 lżrwgjącdap szrfyl AGEDYRopulik.".
 
 ### Wersja w Javie
+
 ![konsola.png](dokumentacja/konsola%20(Java).png)
 Rysunek 4. Uruchomiono program, wprowadzono tekst do zaszyfrowania "program" i uzyskano szyfrogram "oypaygm".
 
