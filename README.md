@@ -248,8 +248,9 @@ Wykonaj **aplikację konsolową** oraz **mobilną** według wskazań.
 Wykonaj **aplikację konsolową** oraz **webową** według wskazań.
 
 - Arkusz: [inf_04_2022_06_02_SG_kolor.pdf](_arkusze/2022-06/inf_04_2022_06_02_SG_kolor.pdf)
-- Zasady oceniania: [INF_04_2022_06_02_SG_zo.xlsx](_arkusze/2022-06/INF_04_2022_06_02_SG_zo.xlsx)
+- Zasady oceniania: [INF_04_2022_06_02_SG_zo.xlsx](_arkusze/2022-06/INF_04_2022_06_02_SG_zo.xlsx) | [INF_04_2022_06_02_SG_zo.md](_arkusze/2022-06/INF_04_2022_06_02_SG_zo.md)
 - Rozwiązanie: [INF.04-22.06/INF.04-02-22.06-SG/](INF.04-22.06/INF.04-02-22.06-SG/)
+- **YouTube Tutorial**: [Create React App Tutorial](https://www.youtube.com/watch?v=COtrqVRwO7I)
 - <img src="bc.ico" alt="Logo TEB Biblioteki Cyfrowej" style="height: 1em;"> Rozwiązania wideo w TEB BC: [https://www.e-teb.pl/course/view.php?id=1245#section-7](https://www.e-teb.pl/course/view.php?id=1245#section-7)
 
 ### 2022 - styczeń
