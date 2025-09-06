@@ -1,0 +1,16 @@
+[Free ZIP Password Recovery Project Data]
+Version Created=3.70.69
+EncryptedFile=C:\Users\Vikta\Codding\INF.04-rozwiazania\_arkusze\2025-01\pliki3.zip
+CurrentPass=anoan
+CharsSLatin=1
+CharsCLatin=0
+CharsSpace=0
+CharsDigits=1
+CharsSymbols=0
+CharsCustom=0
+Charset=abcdefghijklmnopqrstuvwxyz0123456789
+RecoveryType=1
+MinPassLen=1
+MaskChar=?
+Mask=
+Dictionary=C:\Program Files (x86)\Free ZIP Password Recovery\default_english.kpd
